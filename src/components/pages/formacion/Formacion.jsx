@@ -1,6 +1,6 @@
-import CardFormacion from "./CardFormacion";
+import CardFormacion from "./CardFormacion.jsx";
 import "./formacion.css";
-import Tecnologia from "./tecnologia";
+import Tecnologia from "./tecnologia.jsx";
 function Formacion() {
   return (
     <>

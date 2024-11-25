@@ -1,5 +1,5 @@
 import "./listadetrabajos.css";
-import Trabajo from "./Trabajo";
+import Trabajo from "./Trabajo.jsx";
 function ListaDeTrabajos() {
   return (
     <>
