@@ -1,0 +1,27 @@
+.midesc {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 30px;
+  .parrafo1 {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    text-align: left;
+  }
+  .parrafo2 {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    text-align: right;
+    position: relative;
+  }
+  img {
+    width: 25%;
+    border-radius: 100px;
+  }
+}
