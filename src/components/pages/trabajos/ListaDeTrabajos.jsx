@@ -1,5 +1,6 @@
 import "./listadetrabajos.css";
 import Trabajo from "./Trabajo.jsx";
+import imgcronometro from "/src/assets/cronometro.png";
 function ListaDeTrabajos() {
   return (
     <>
@@ -7,7 +8,7 @@ function ListaDeTrabajos() {
       <div className="listaTrabajos-container">
         <Trabajo
           title="Cronometro"
-          imgproyecto="/src/assets/cronometro.png"
+          imgproyecto={imgcronometro}
           description="Aplicacion realizada con html css y javascript"
           link="https://cronojavascript.netlify.app/"
           link2="link de enlace a la repositorio del trabajo"
