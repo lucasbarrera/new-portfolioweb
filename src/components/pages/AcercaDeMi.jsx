@@ -12,10 +12,10 @@ function AcercaDeMi() {
           Back-End, pero mi enfoque es el Front-End.Me gusta trabajar en equipo,
           enseñar y aprender nuevas tecnologías para optimizar proyectos.
         </p>
-        <img src="./src/assets/yo.jpeg" alt="" />
+        <img src="/public/yo.jpeg" alt="" />
       </div>
       <div className="midesc">
-        <img src="./src/assets/codigo.png" alt="" />
+        <img src="/public/codigo.png" alt="" />
         <p className="parrafo2">
           Soy Técnico en Programación graduado de la Universidad Tecnologica
           Nacional facultad Regional La Rioja. Manejo de tecnologías como: HTML,
