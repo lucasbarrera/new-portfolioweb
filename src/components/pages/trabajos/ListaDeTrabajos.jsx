@@ -7,42 +7,42 @@ function ListaDeTrabajos() {
       <div className="listaTrabajos-container">
         <Trabajo
           title="Cronometro"
-          imgproyecto="/public/cronometro.png"
+          imgproyecto="cronometro.PNG"
           description="Aplicacion realizada con html css y javascript"
           link="https://cronojavascript.netlify.app/"
           link2="link de enlace a la repositorio del trabajo"
         />
         <Trabajo
           title="Contador de Clicks"
-          imgproyecto="/public/contadorclics.png"
+          imgproyecto="contadorclics.PNG"
           description="Contador de clicks desarrollado con html css y javascript"
           link="https://contadorclics.netlify.app"
           link2="link de enlace a la repositorio del trabajo"
         />
         <Trabajo
           title="Buscador de Clima de Ciudades"
-          imgproyecto="/public/appclima.png"
+          imgproyecto="appclima.PNG"
           description="Aplicacion realizada con React, CSS y API externa de clima"
           link="https://react-aplicacion-de-clima.netlify.app/"
           link2="link de enlace a la repositorio del trabajo"
         />
         <Trabajo
           title="Calculadora"
-          imgproyecto="/public/calculadora.png"
+          imgproyecto="calculadora.PNG"
           description="Calculadora funcional realizada con React y CSS"
           link="https://calculadoralucasjavascript.netlify.app/"
           link2="link de enlace a la repositorio del trabajo"
         />
         <Trabajo
           title="Aplicacion de tareas"
-          imgproyecto="/public/appTareas.png"
+          imgproyecto="appTareas.PNG"
           description="aplicacion realizada con Javascript, HTML Y CSS"
           link="https://listatareasjavascript.netlify.app/"
           link2="link de enlace a la repositorio del trabajo"
         />
         <Trabajo
           title="Mercado liebre"
-          imgproyecto="/public/mercadoliebre.png"
+          imgproyecto="mercadoliebre.png"
           description="Copia de vista principal de Mercado Libre, realizada con HTML Y CSS"
           link="https://ml-lucasbarreramenem.onrender.com/"
           link2="https://github.com/lucasbarrera/ML-LucasBarreraMenem"
