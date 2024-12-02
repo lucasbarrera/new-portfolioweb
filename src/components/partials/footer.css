@@ -34,7 +34,7 @@ a {
   color: black;
 }
 
-@media (min-width: 426px) {
+@media (min-width: 600px) {
   .footercontainer {
     width: 100%;
     max-height: 80px;
