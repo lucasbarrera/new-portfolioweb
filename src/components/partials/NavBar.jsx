@@ -5,11 +5,7 @@ function NavBar() {
     <>
       <nav className="navbar navbar-expand-md ">
         <div className="container-fluid">
-          <img
-            className="logo-navbar"
-            src="/src/assets/logo-negro.png"
-            alt=""
-          />
+          <img className="logo-navbar" src="logo-negro.png" alt="" />
           <button
             className="navbar-toggler"
             type="button"

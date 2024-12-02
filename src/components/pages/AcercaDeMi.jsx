@@ -2,7 +2,7 @@ import "./acercademi.css";
 function AcercaDeMi() {
   return (
     <>
-      <h3>Hola! soy Lucas Barrera Menem.</h3>
+      <h3>Hola! Soy Lucas.</h3>
       <div className="midesc">
         <p className="parrafo1">
           Soy una persona pro activa, responsable y apasionado por mí trabajo.

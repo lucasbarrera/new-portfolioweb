@@ -8,7 +8,7 @@ import Footer from "./components/partials/Footer.jsx";
 function App() {
   return (
     <>
-      <NavBar />{" "}
+      <NavBar />
       <Routes>
         <Route path="/" element={<AcercaDeMi />} />
         <Route path="/trabajos" element={<ListaDeTrabajos />} />

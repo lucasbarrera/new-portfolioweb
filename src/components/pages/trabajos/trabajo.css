@@ -1,7 +1,7 @@
 .card {
-  height: 400px;
+  height: 350px;
   display: flex;
-  width: 30%;
+  max-width: 300px;
   justify-content: center;
   align-items: center;
   padding: 5px;
@@ -33,10 +33,4 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-}
-
-@media (max-with: 425px) {
-  .card {
-    width: 250px;
-  }
 }

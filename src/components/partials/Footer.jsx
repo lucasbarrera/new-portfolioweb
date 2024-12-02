@@ -9,7 +9,7 @@ function Footer() {
       >
         <div className="seccion">
           <img className="icon" src="./mailicono.png" alt="Mail" />
-          barreramenemlucas@gmail.com
+          e-mail
         </div>
       </a>
       <a
@@ -19,7 +19,7 @@ function Footer() {
       >
         <div className="seccion">
           <img className="icon" src="./linkedinicono.png" alt="Linkedin" />
-          Mi Perfil de Linkedin
+          Mi Perfil
         </div>
       </a>
       <a
